@@ -8,5 +8,5 @@
 </p>
 
 <p>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1852668828125954741/5824546632E192880C7B786A220F52ED293F073B" />
+  <img src="https://pic.rutubelist.ru/user/52/8d/528d670a41eeabe1b22a9f0c60b7f67e.jpg" />
 </p>
