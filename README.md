@@ -13,6 +13,8 @@
   <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </p>
 
+![Flexksx's Github Stats](https://github-readme-stats.vercel.app/api?username=flexksx&count_private=true&show_icons=true)
+
 <p>
   <img src="https://pic.rutubelist.ru/user/52/8d/528d670a41eeabe1b22a9f0c60b7f67e.jpg" />
 </p>
