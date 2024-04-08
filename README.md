@@ -14,6 +14,7 @@
 </p>
 
 ![Flexksx's Github Stats](https://github-readme-stats.vercel.app/api?username=flexksx&count_private=true&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flexksx&show_icons=true&locale=en&layout=compact" alt="My Most Used Languages" /></p>
 
 <!---
 <p>
