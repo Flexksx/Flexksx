@@ -4,7 +4,7 @@ I like to build stuff, participate at hackatons and explore new things 💻
 ---
 
 ## My most used languages are
-[![My Skills](https://skillicons.dev/icons?i=js,java,python)](https://skillicons.dev) \
+[![My Skills](https://skillicons.dev/icons?i=js,java,python)](https://skillicons.dev) 
 ## but I want to learn more about
 [![My Skills](https://skillicons.dev/icons?i=cpp,rust)](https://skillicons.dev) 
 
