@@ -1,3 +1,5 @@
+#SUS MAIA SANDU
+<img src="https://maiasandu.pentru.md/wp-content/uploads/2024/08/MS24-logo-01-1-1024x377.png" alt="SUS MAIA SANDU"/>
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Software Engineering student at the Technical University of Moldova</h3>
 
