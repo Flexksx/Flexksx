@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flexksx&label=Profile%20views&color=0e75b6&style=flat" alt="flexksx" /> </p>
 
-- 🔭 I’m currently working on **various lab assignments from the university**
+- 🔭 I’m exploring a lot by working on **university lab assignments**
+  
+- ⚙️ I'm working as a data analyst at **Extole**.
 
 - 🌱 I’m currently learning **using NixOS efficiently and building stuff with Java.**
 
-- 💻 I like to take part at multiple **hackatons**
+- 💻 I like to take part at **hackatons** and **build solutions** that face **real world problems**.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cristian-cretu-b6194225b/](https://www.linkedin.com/in/cristian-cretu-b6194225b/)
 
