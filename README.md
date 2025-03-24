@@ -5,7 +5,7 @@
 
 - 🔭 I’m exploring a lot by working on **university lab assignments**
   
-- ⚙️ I'm working as a data analyst at **Extole**.
+- ⚙️ I'm working as a data analyst and engineer at **Extole**.
 
 - 🌱 I’m currently learning **using NixOS efficiently and building stuff with Java.**
 
